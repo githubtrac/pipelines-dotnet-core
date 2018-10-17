@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://devopsmickey.visualstudio.com/AzurePipelines/_apis/build/status/AzurePipelines-.NetCoreSample-CI)](https://devopsmickey.visualstudio.com/AzurePipelines/_build/latest?definitionId=19)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
